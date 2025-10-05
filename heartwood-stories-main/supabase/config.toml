@@ -1,0 +1,16 @@
+project_id = "mxaeslmafjtmzbiqrruv"
+
+[functions.chat]
+verify_jwt = true
+
+[functions.generate-story]
+verify_jwt = true
+
+[functions.voice-to-text]
+verify_jwt = true
+
+[functions.text-to-speech]
+verify_jwt = true
+
+[functions.export-pdf]
+verify_jwt = true
